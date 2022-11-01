@@ -1,0 +1,15 @@
+C:\Users\owend\Desktop\Tuesday\Practice test\bin\Debug\net6.0\Practice test.exe
+C:\Users\owend\Desktop\Tuesday\Practice test\bin\Debug\net6.0\Practice test.deps.json
+C:\Users\owend\Desktop\Tuesday\Practice test\bin\Debug\net6.0\Practice test.runtimeconfig.json
+C:\Users\owend\Desktop\Tuesday\Practice test\bin\Debug\net6.0\Practice test.dll
+C:\Users\owend\Desktop\Tuesday\Practice test\bin\Debug\net6.0\Practice test.pdb
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.csproj.AssemblyReference.cache
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.AssemblyInfoInputs.cache
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.AssemblyInfo.cs
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.csproj.CoreCompileInputs.cache
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.dll
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\refint\Practice test.dll
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.pdb
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\Practice test.genruntimeconfig.cache
+C:\Users\owend\Desktop\Tuesday\Practice test\obj\Debug\net6.0\ref\Practice test.dll
